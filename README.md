@@ -21,6 +21,62 @@
 
 ---
 
+## 📖 About GLX SFTP
+
+### Your server tool for every day
+
+GLX SFTP is made for everyone who looks after websites, home servers, Proxmox, Raspberry Pi or rented virtual servers. You connect via SFTP and SSH, see exactly what you need on the left and right, and keep all servers neatly in folders on the left. No more jumping between PuTTY, WinSCP and FileZilla.
+
+### Two panes, freely selectable
+
+Every connection opens in its own tab. Inside, two panes side by side show either the files on your PC, the files on the server or the SSH terminal. You switch with one click right above the pane, another click swaps left and right.
+
+So you work like with a classic FTP program (PC left, server right) or like with MobaXterm (server files and terminal). Move the divider with the mouse, and GLX SFTP remembers your choice for the next connections.
+
+### Simply drag files across
+
+Drag files and whole folders from the PC pane to the server pane and back, straight into a subfolder if you like. You can also drag files in from Windows Explorer. Uploads go to a temporary name first, so there is never a half file on the server.
+
+A bar shows every transfer with progress, speed and remaining time, and each one can be cancelled. If a file already exists, you decide: overwrite or skip.
+
+### Edit files right on the server
+
+A double-click opens a file from the server in your usual program, for example a configuration, a script or an HTML page. After saving, GLX SFTP asks whether the change should go to the server. Plus new folders, rename, delete, change permissions (also as a number such as 644) and show or hide hidden files.
+
+### Terminal with its own designs
+
+The SSH terminal works as usual, also with programs such as nano, htop or mc. Selected text goes straight to the clipboard, a right-click pastes. Choose from 12 colour designs, font, font size and cursor. Every server can get its own design, so you see at once which machine you are working on.
+
+### SFTP, SSH, FTP and FTPS
+
+Besides SFTP and SSH, GLX SFTP also handles FTP and FTPS, explicit and implicit on port 990, for example for web space without SSH access. Sign in with password or key (PuTTY .ppk and OpenSSH).
+
+### Take over all servers in a few clicks
+
+You do not have to type anything. GLX SFTP finds the saved servers from PuTTY, KiTTY, MobaXterm, WinSCP, FileZilla, Cyberduck and the OpenSSH config file. Tick what you want to take over, and the folders from the old program are kept. Exported files from another PC can be loaded too.
+
+The other way round, GLX SFTP also saves your server list for these programs, for example for a colleague who still uses PuTTY or FileZilla. Passwords are never passed on.
+
+### Favourites, folders and your own icons
+
+Your servers are listed on the left, sorted in folders and any number of subfolders, reordered by dragging. A search finds every server instantly, a double-click connects.
+
+Every server and folder can get its own icon. More than 300 icons in categories are included, and you add your own pictures (PNG, SVG, ICO, JPG and more) in your own libraries. You can even give the buttons in the toolbar your own icons.
+
+### Secure from the start
+
+Passwords are stored encrypted, only your Windows user account can read them. On the first connection GLX SFTP shows the server's fingerprint and remembers it. If the server reports differently later, it does not connect. The same applies to certificates with FTPS.
+
+### Pleasant to use
+
+12 program designs from light to dark, German and English, detailed help in the program with search and tooltips on every button. The window adapts to any size, and the buttons move closer together when it gets smaller. GLX SFTP runs only once, every further connection opens as a tab.
+
+### Try it for 14 days
+
+You can try GLX SFTP free for 14 days with all features. After that your favourites, icons and settings are kept, and connecting and transferring need the full version. Updates come right in the program.
+
+---
+
 ## 📸 Overview & Screenshots
 
 ### 1️⃣ Start page with favorites and recent connections
